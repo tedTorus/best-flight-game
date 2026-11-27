@@ -1,3 +1,5 @@
+console.log("Neon Flight Agent Initialized.");
+console.log("Starting build process...");
 // A working best-game-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
